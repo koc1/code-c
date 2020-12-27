@@ -1,0 +1,11 @@
+﻿  test.c
+C:\Users\任帅\source\repos\12 27 1\test.c(8,8): error C2065: “m”: 未声明的标识符
+C:\Users\任帅\source\repos\12 27 1\test.c(8,8): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\任帅\source\repos\12 27 1\test.c(9,8): error C2065: “n”: 未声明的标识符
+C:\Users\任帅\source\repos\12 27 1\test.c(9,8): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\任帅\source\repos\12 27 1\test.c(10,2): error C2100: 非法的间接寻址
+C:\Users\任帅\source\repos\12 27 1\test.c(11,7): error C2065: “r＝p”: 未声明的标识符
+C:\Users\任帅\source\repos\12 27 1\test.c(11,14): error C2065: “p＝q”: 未声明的标识符
+C:\Users\任帅\source\repos\12 27 1\test.c(11,21): error C2065: “q＝r”: 未声明的标识符
+C:\Users\任帅\source\repos\12 27 1\test.c(12,26): error C2065: “m”: 未声明的标识符
+C:\Users\任帅\source\repos\12 27 1\test.c(12,28): error C2065: “n”: 未声明的标识符
