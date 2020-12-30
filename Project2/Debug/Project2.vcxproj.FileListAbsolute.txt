@@ -1,0 +1,2 @@
+E:\daily-c\Project2\Debug\文件1.exe
+E:\daily-c\Project2\Debug\文件1.pdb

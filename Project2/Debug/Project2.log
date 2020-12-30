@@ -1,0 +1,10 @@
+﻿  test.c
+E:\daily-c\Project2\test.c(81,11): error C2079: “s”使用未定义的 struct“S”
+E:\daily-c\Project2\test.c(81,31): error C2078: 初始值设定项太多
+E:\daily-c\Project2\test.c(88,28): error C2224: “.n”的左侧必须具有结构/联合类型
+E:\daily-c\Project2\test.c(88,33): error C2224: “.score”的左侧必须具有结构/联合类型
+E:\daily-c\Project2\test.c(88,42): error C2224: “.arr”的左侧必须具有结构/联合类型
+E:\daily-c\Project2\test.c(88,14): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+E:\daily-c\Project2\test.c(88,14): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+E:\daily-c\Project2\test.c(88,14): message : 缺失的可变参数 1 为格式字符串“%d”所需
+E:\daily-c\Project2\test.c(81,19): error C2078: 初始值设定项太多

@@ -1,0 +1,2 @@
+E:\daily-c\ContactFile\Debug\ContactFile.exe
+E:\daily-c\ContactFile\Debug\ContactFile.pdb
